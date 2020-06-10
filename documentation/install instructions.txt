@@ -1,0 +1,27 @@
+get latest conda - not from software center!
+
+
+check if spyder works
+
+
+run conda prompt as admin
+
+conda install -c astropy pyephem
+pip install pygubu
+
+add python to system variables
+
+install git
+
+clone github repo
+
+git clone -b <branch-name> https://github.com/niwa/ASAP_v2.0.git
+
+copy over old tasks and xpms
+
+
+commit and push updates;
+
+git add <files>
+git commit -m <message>
+git push origin <branch_name>
